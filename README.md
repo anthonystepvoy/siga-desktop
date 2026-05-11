@@ -6,8 +6,7 @@
 
 Every task to the right model — automatically.
 
-[![Latest release](https://img.shields.io/github/v/release/anthonystepvoy/siga-desktop?label=Download&style=for-the-badge&color=ec4899)](https://github.com/anthonystepvoy/siga-desktop/releases/latest)
-[![Website](https://img.shields.io/badge/siga.codes-Visit-pink?style=for-the-badge)](https://siga.codes)
+[![Download at siga.codes](https://img.shields.io/badge/Download-siga.codes-ec4899?style=for-the-badge)](https://siga.codes)
 [![Follow on X](https://img.shields.io/badge/@sigacode-Follow-black?style=for-the-badge&logo=x)](https://x.com/sigacode)
 
 </div>
@@ -34,10 +33,9 @@ One subscription. Every major provider. Picked for you.
 
 ## Install
 
-1. Download [`SIGA Code Setup.exe`](https://github.com/anthonystepvoy/siga-desktop/releases/latest)
-2. Double-click — installs silently in seconds
-3. Sign in with GitHub or Google
-4. Pick a project folder and start coding
+Download from **[siga.codes](https://siga.codes)** — single .exe, installs silently in seconds, no dialogs, no UAC prompts.
+
+After install: sign in with GitHub or Google, pick a project folder, start coding.
 
 **Requirements:** Windows 10 / 11 · ~200 MB disk
 
@@ -76,7 +74,7 @@ The routing logic updates as new models ship. You can hand-pick any provider any
 
 ## Reporting bugs
 
-Use the [Issues tab](https://github.com/anthonystepvoy/siga-desktop/issues). When reporting:
+Either click **"Report Bug"** inside the app (auto-fills system info) or open an issue on the [Issues tab](https://github.com/anthonystepvoy/siga-desktop/issues). When reporting:
 
 - SIGA version (visible in sidebar footer)
 - What you were doing when it broke
