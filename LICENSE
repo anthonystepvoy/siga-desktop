@@ -1,0 +1,64 @@
+SIGA Code — End User License Agreement
+======================================
+
+Copyright (c) 2026 Anthony Stepvoy. All rights reserved.
+
+This software (the "Software") is licensed, not sold. By downloading,
+installing, or using the Software you ("the User") agree to the following
+terms.
+
+1. GRANT OF LICENSE
+   Anthony Stepvoy ("the Licensor") grants the User a personal, non-exclusive,
+   non-transferable, revocable license to install and use the Software on any
+   computer the User owns or controls, for both personal and commercial use,
+   subject to the terms below.
+
+2. RESTRICTIONS
+   The User may NOT:
+   (a) Redistribute, resell, sublicense, lease, rent, or otherwise transfer
+       the Software or any copy of it to any third party.
+   (b) Reverse-engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code, architecture, or routing logic of the Software,
+       except to the extent such activity is expressly permitted by applicable
+       law notwithstanding this limitation.
+   (c) Remove, alter, or obscure any copyright, trademark, or other
+       proprietary notices included in or with the Software.
+   (d) Use the Software to build a competing AI-routing product.
+   (e) Bypass, disable, or tamper with any licensing, plan-enforcement, or
+       usage-tracking mechanisms in the Software.
+
+3. PAID PLANS
+   Certain features ("Pro features") require an active paid subscription.
+   The User's access to Pro features is contingent on the User's subscription
+   being current. Subscription terms are governed separately by the billing
+   provider's terms at the time of purchase.
+
+4. TELEMETRY & DATA
+   The Software may transmit anonymous usage data, error reports, and
+   subscription-validation requests to servers operated by the Licensor.
+   The Software does not transmit the contents of the User's project files
+   or code unless the User explicitly opts in to a bug report that includes
+   such data.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+7. TERMINATION
+   This license is effective until terminated. It terminates automatically
+   if the User breaches any term. On termination, the User must cease all
+   use of the Software and delete all installed copies.
+
+8. GOVERNING LAW
+   This agreement is governed by the laws of the User's jurisdiction of
+   residence, without regard to conflict of law principles.
+
+For licensing inquiries, partnerships, or to report a violation of these
+terms, contact: contact@siga.codes
